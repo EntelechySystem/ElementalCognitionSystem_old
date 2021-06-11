@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "ElementalCognitionSystem"
+		}
+	],
+	"settings": {
+		"editor.fontFamily": "Times New Roman, Menlo, Monaco, 'Courier New', monospace",
+		"editor.fontSize": 14,
+		"files.autoSave": "afterDelay"
+	}
+}
