@@ -2,7 +2,13 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../../ProjectsFile/Creation/思想库"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"editor.fontFamily": "Kaiti SC, Times, Menlo, Monaco, 'Courier New', monospace"
+	}
 }
