@@ -9,6 +9,7 @@
 	],
 	"settings": {
 		"files.autoSave": "afterDelay",
-		"editor.fontFamily": "Kaiti SC, Times, Menlo, Monaco, 'Courier New', monospace"
+		"editor.fontFamily": "Kaiti SC, Times, Menlo, Monaco, 'Courier New', monospace",
+		"editor.fontSize": 13
 	}
 }
